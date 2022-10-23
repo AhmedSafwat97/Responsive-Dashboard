@@ -1,0 +1,110 @@
+@media screen and (max-width:790px ) {
+
+    .sidebar{
+        max-width: 70px;
+    }
+    .head{
+left: 70px;
+    }
+
+
+    li a span{
+        display: none;
+    }
+    li a{
+    display: block;
+    transform: translateX(2px);
+    }
+
+.sidebar h3{
+    font-size: 15px;
+}
+.line .s1{
+    width: 40px;
+}
+.line .s2{
+    width: 10px;
+    height: 10px;
+}
+.welcome{
+    display: block;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 0px;
+  
+}
+.welcome .ava{
+    transform: translateX(-15px);
+}
+.wrapper{
+    grid-template-columns:minmax(250px,1fr);
+    gap: 10px;
+
+}
+.body{
+    display: block;
+}
+
+.intro img{ 
+    display: none;
+    }
+ .body > div {
+    display: block;
+    margin-top: 10px;
+    }
+
+    .welcome .ava{
+        margin-left: 45%;
+        width: 60px;
+    }
+
+
+    .details .progress{
+        width: 25vh;
+    }
+    .latestnews .latest-row{
+        display: block;
+        text-align: center;
+    }
+    .latest-row .lable{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+    /* start profile page */
+    .profile-page{
+        display: block;
+    }
+    .pro{
+transform: translateX(30px);    }
+    .g-row{
+        display: block;
+    }
+
+    .wrapperr{
+        grid-template-columns:minmax(300px,1fr);
+        gap: 10px;
+        margin-bottom: 10px;
+    }
+    .pro{
+        width: 200px;
+    }
+    /* project */
+    .wraapper{
+        display: grid;
+        grid-template-columns: minmax(300px,1fr);
+        gap: 10px;
+    }
+    /* project */
+
+    /* courses */
+    .wrapper-course{
+        display: grid;
+        gap: 10px;
+    }
+
+    /* courses */
+
+}
+}

@@ -1,0 +1,50 @@
+.bg-blue{
+    background-color: blue;
+}
+.bg-red{
+    background-color: Red;
+}
+
+.bg-orange{
+    background-color: orange;
+}
+
+.bg-dblue{
+    background-color: deepskyblue;
+}
+.bg-darkblue{
+    background-color: darkblue;
+}
+
+.bg-ored{
+    background-color: orangered;
+}
+.bg-gray{
+    background-color: gray;
+}
+.cwhite{
+    color: white;
+}
+
+.Ceee{
+    color: #EEE;
+}
+
+.cyellow{
+    color: yellow;
+}
+}.cgray{
+    color: gray;
+}
+
+.logo-f{
+    font-size: 25px;
+    margin-right: 10px;
+}
+
+
+/*  start whem list sidebar select */
+    .selector{
+        background-color: ;
+    }
+/* end whem list sidebar select */
